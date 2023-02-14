@@ -11,20 +11,20 @@ These instructions will help you set up and run the code in your local machine.
 
 ### Installing
 Clone or download the repository to your local machine and then navigate to the project directory in your terminal.
-```git clone https://github.com/mcrd25/bst.git```
-```$ cd bst```
+```git clone https://github.com/mcrd25/bst.git``` <br>
+```$ cd bst``` <br>
 
 ### Running the code
 To run the code currently in the project repository, run the following commands in the terminal:
 
 #### Python
-`python3 main.py`
+`python3 main.py`<br>
 The code takes in an array of integers and creates a binary search tree. It then outputs the pre-order and in-order traversal of the tree.
 
 #### Ruby
-`ruby bst_pre_order.rb `
-The code takes in an array of integers and creates a binary search tree. It then outputs the pre-order traversal of the tree.
-`ruby bst_in_order.rb `
+`ruby bst_pre_order.rb `<br>
+The code takes in an array of integers and creates a binary search tree. It then outputs the pre-order traversal of the tree.<br>
+`ruby bst_in_order.rb `<br>
 The code takes in an array of integers and creates a binary search tree. It then outputs the in-order traversal of the tree.
 
 ## Code Structure
