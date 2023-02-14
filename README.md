@@ -12,7 +12,7 @@ These instructions will help you set up and run the code in your local machine.
 ### Installing
 Clone or download the repository to your local machine and then navigate to the project directory in your terminal.
 ```git clone https://github.com/mcrd25/bst.git``` <br>
-```$ cd bst``` <br>
+```cd bst``` <br>
 
 ### Running the code
 To run the code currently in the project repository, run the following commands in the terminal:
